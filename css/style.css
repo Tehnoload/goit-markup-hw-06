@@ -889,6 +889,7 @@ button:active {
   color: rgba(117, 117, 117, 0.5);
 }
 .modal-form-checkbox {
+  margin-left: 14px;
   margin-bottom: 30px;
 }
 .modal-checkbox-label {
